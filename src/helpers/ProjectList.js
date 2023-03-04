@@ -7,9 +7,9 @@ import Proj6 from "../assets/proj6.png";
 
 export const ProjectList = [
   {
-    name: "Dijkstra Algorithm Visualizer",
-    image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    name: "Spotify Clone",
+    image: Proj3,
+    skills: "React,Node.js,MongoDB,SpotifyAPI",
   },
   {
     name: "Ecommerce Website",
